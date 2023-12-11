@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ce7bdb4d678bba148a30e2fd15b17b2b
+guid: f4f9914f70440df4cae8f50d45ffdfda
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -130,7 +130,7 @@ ScriptedImporter:
       y: 4
       width: 18
       height: 28
-    spriteID: c1f8ff75e4d74f749b9997f76d2e744d
+    spriteID: f7c6ce605399e05428a8a5dc67a3ecc4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -150,7 +150,7 @@ ScriptedImporter:
       y: 4
       width: 18
       height: 54
-    spriteID: 1cdf608fca423f647884756b6b85baee
+    spriteID: a79d0787ffcde4a459ac05ef7ba609a8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -170,7 +170,7 @@ ScriptedImporter:
       y: 4
       width: 21
       height: 42
-    spriteID: 62e1a48db59e17240986f828329d223c
+    spriteID: f897dacf0fef52e4dba977d33adbac2d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -190,7 +190,7 @@ ScriptedImporter:
       y: 4
       width: 25
       height: 21
-    spriteID: 0bdc34fa1cac6f244bd1b03773b21999
+    spriteID: ba66e2daaec2cf040b434e1a60ee6705
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -210,7 +210,7 @@ ScriptedImporter:
       y: 33
       width: 23
       height: 8
-    spriteID: 51a8266ffefadc641a88ba1a23d8bd88
+    spriteID: 8d1b453a46e183c4398c01f5927484c3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -230,7 +230,7 @@ ScriptedImporter:
       y: 40
       width: 21
       height: 11
-    spriteID: ccdec01f459f6bd408662f9c04b2018f
+    spriteID: d7c9235c149f7954fa892fe424452815
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -255,7 +255,7 @@ ScriptedImporter:
         y: 0
         width: 18
         height: 28
-      spriteId: c1f8ff75e4d74f749b9997f76d2e744d
+      spriteId: f7c6ce605399e05428a8a5dc67a3ecc4
     - name: Death_Frame_1
       frameIndex: 1
       cellRect:
@@ -263,7 +263,7 @@ ScriptedImporter:
         y: 2
         width: 18
         height: 54
-      spriteId: 1cdf608fca423f647884756b6b85baee
+      spriteId: a79d0787ffcde4a459ac05ef7ba609a8
     - name: Death_Frame_2
       frameIndex: 2
       cellRect:
@@ -271,7 +271,7 @@ ScriptedImporter:
         y: 0
         width: 21
         height: 42
-      spriteId: 62e1a48db59e17240986f828329d223c
+      spriteId: f897dacf0fef52e4dba977d33adbac2d
     - name: Death_Frame_3
       frameIndex: 3
       cellRect:
@@ -279,7 +279,7 @@ ScriptedImporter:
         y: 0
         width: 25
         height: 21
-      spriteId: 0bdc34fa1cac6f244bd1b03773b21999
+      spriteId: ba66e2daaec2cf040b434e1a60ee6705
     - name: Death_Frame_4
       frameIndex: 4
       cellRect:
@@ -287,7 +287,7 @@ ScriptedImporter:
         y: 0
         width: 23
         height: 8
-      spriteId: 51a8266ffefadc641a88ba1a23d8bd88
+      spriteId: 8d1b453a46e183c4398c01f5927484c3
     - name: Death_Frame_5
       frameIndex: 5
       cellRect:
@@ -295,7 +295,7 @@ ScriptedImporter:
         y: 0
         width: 21
         height: 11
-      spriteId: ccdec01f459f6bd408662f9c04b2018f
+      spriteId: d7c9235c149f7954fa892fe424452815
     linkedCells: []
     parentIndex: -1
   platformSettings: []
